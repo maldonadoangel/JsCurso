@@ -1,6 +1,7 @@
 
-alert('Hola Mundo');
+//alert('Hola Mundo');
 
+console.log(nombre);
 
 let a = 20,
     b = 30,
@@ -17,3 +18,5 @@ var miNombre = 'Angel Morales';
 
 x = 'Cambio de valor';
 console.log(x);
+
+var nombre = 'Hernan Morales';
