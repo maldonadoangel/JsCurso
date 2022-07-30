@@ -25,3 +25,5 @@ console.log(x);
 //Esto no sucede si usamos let, al usar let nos arroja el error que la variable aun no
 //a sido inicializada, por eso se recomienda usar let
 var nombre = 'Hernan Morales';
+
+console.log(1 === 1.00000000000000000);
